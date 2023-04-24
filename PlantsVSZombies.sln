@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantsVSZombies", "PlantsVSZombies\PlantsVSZombies.csproj", "{1D5D690C-94DD-464F-892F-87FBC6AA4916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5D690C-94DD-464F-892F-87FBC6AA4916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5D690C-94DD-464F-892F-87FBC6AA4916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5D690C-94DD-464F-892F-87FBC6AA4916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5D690C-94DD-464F-892F-87FBC6AA4916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898E5B8E-6C70-4600-A179-39DB2C91BFA0}
+	EndGlobalSection
+EndGlobal
